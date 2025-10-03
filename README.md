@@ -1,4 +1,3 @@
-<img width="783" height="898" alt="image" src="https://github.com/user-attachments/assets/f7e4625c-a147-4c44-ad95-1e267b968ec2" /># deep-learning-project
 
 Bu doküman, Convolutional Neural Network (CNN) mimarisine dayanan bir görüntü sınıflandırma projesini detaylandırmaktadır.
 Proje, katılımcılara derin öğrenme, veri analizi, model geliştirme, değerlendirme ve yorumlama konularında pratik deneyim kazandırmayı amaçlamaktadır.
